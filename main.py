@@ -46,3 +46,5 @@ for bt in btns:
         x = 10
         y += 81
 root.mainloop()
+
+print('Hello world!')
